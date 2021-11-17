@@ -469,6 +469,7 @@ embed {
 	flex-direction: row;
 	flex-wrap: wrap;
 	margin-top: 50px;
+	height: 80%;
 }
 
 .social-media .categories div,
@@ -484,6 +485,7 @@ embed {
 	height: 8rem;
 	transition: all 0.5s ease-in-out;
 	position: relative;
+	font-size: 30px;
 }
 
 .social-media .categories div:first-of-type,
